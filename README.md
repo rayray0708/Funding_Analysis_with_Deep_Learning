@@ -8,13 +8,13 @@ Alphabet Soup, a nonprofit foundation, seeks a tool leveraging machine learning 
 
 ## Installations
 The following dependencies were used to run the code. Please copy the code as is to your code editor:
-`from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler, OneHotEncoder
-import pandas as pd
-import tensorflow as tf
-import sklearn as skl
-import keras_tuner as kt
-from pprint import pprint
+`from sklearn.model_selection import train_test_split\
+from sklearn.preprocessing import StandardScaler, OneHotEncoder\
+import pandas as pd\
+import tensorflow as tf\
+import sklearn as skl\
+import keras_tuner as kt\
+from pprint import pprint\s
 from tensorflow.keras.models import load_model, save_model`
 
 Please ensure you have the following libraries pre-installed:
